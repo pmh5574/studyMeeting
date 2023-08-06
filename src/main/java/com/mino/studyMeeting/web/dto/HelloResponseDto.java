@@ -1,4 +1,4 @@
-package com.mino.studyMeeting.dto;
+package com.mino.studyMeeting.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

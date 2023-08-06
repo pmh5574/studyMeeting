@@ -1,10 +1,9 @@
-package com.mino.studyMeeting.dto;
+package com.mino.studyMeeting.web.dto;
 
-import org.junit.jupiter.api.Assertions;
+import com.mino.studyMeeting.web.dto.HelloResponseDto;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 class HelloResponseDtoTest {
 

@@ -27,7 +27,7 @@ class PostsRepositoryTest {
     void 게시글저장_불러오기() {
         //given
         String title = "테스트 게시글";
-        String content = "테스트 qhsans";
+        String content = "테스트 본문";
 
         postsRepository.save(Posts.builder()
                         .title(title)
